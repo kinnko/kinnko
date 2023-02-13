@@ -1,11 +1,11 @@
-#　ああああ
+# ああああ
 
 
 ### 優先度５　環境改善編
- *neovimに乗り換える
- *あ
- *あ
-*ちょも
+*neovimに乗り換える
+* あ
+ * あ
+ * ちょも
 
 <!--
 **kinnko/kinnko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
