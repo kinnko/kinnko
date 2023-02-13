@@ -7,6 +7,10 @@
 * あ
  * ちょも
 
+* リスト1
+  * リスト1-2  
+* リスト2  
+
 <!--
 **kinnko/kinnko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
